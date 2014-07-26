@@ -1,0 +1,5 @@
+#para{height:150px; width:750px; background-color:orange; text-align: center; border: dashed 5px; border-color: white; left: 0; right: 0; margin: auto;}
+#title{height: 100px; width: 525px; background-color: green; border: dashed 3px; border-color: black; text-align: center; left: 0; right: 0; margin: auto;}
+#input{height: 50px; width:200px; background-color: #D4194E; border: solid 1px; border-color: black; text-align: center; left: 0; right: 0; margin: auto;}
+.sentance{font-size:25px; font-family: "Times New Roman", Times, serif;}
+#noti{text-align: center; left: 0; right: 0; margin: auto;}
